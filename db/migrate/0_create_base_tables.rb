@@ -31,3 +31,4 @@ class CreateBaseTables < ActiveRecord::Migration[4.2]
   end
 
 end
+
